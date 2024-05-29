@@ -36,7 +36,8 @@ Created with HTML, CSS and JavaScript, this project highlights my front-end deve
 
 ## 📫 How to Reach Me
 
-- **Email**: quezadasteven570@gmail.com
+(https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+) quezadasteven570@gmail.com
 
 ## 🤝 Contributing
 
