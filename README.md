@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Steven Quezada González
 
-![Profile Views](https://komarev.com/ghpvc/?username=your_username&color=blue)
-![GitHub Followers](https://img.shields.io/github/followers/your_username?label=Follow&style=social)
-![GitHub Stars](https://img.shields.io/github/stars/your_username?label=Stars&style=social)
+![Profile Views](https://komarev.com/ghpvc/?username=Steven1400999&color=blue)
+![GitHub Followers](https://img.shields.io/github/followers/Steven1400999?label=Follow&style=social)
+![GitHub Stars](https://img.shields.io/github/stars/Steven1400999?label=Stars&style=social)
 
 Welcome to my GitHub profile! I'm a passionate developer with a diverse skill set in web and software development. Here, you'll find a collection of my projects, ranging from front-end designs to full-stack applications.
 
