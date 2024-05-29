@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a diverse skill se
 A complete application created with React and Laravel, this is an application for booking tickets for movie screenings, the customer can book their tickets and then pay for them at the cinema and enjoy the movie. With user authentication, real-time data updates and a good design.
 
 ### [Project 2: InventiKS](https://github.com/Steven1400999/Proyecto_Inventario)
-An inventory management application developed using Laravel (PHP) and MySQL. This project demonstrates my skills in full-stack development, including front-end technologies and back-end management with database integration. It features product management, stock control, and reporting functionalities.
+An inventory management application developed using Laravel, MySQL and React. This project demonstrates my skills in full-stack development, including front-end technologies and back-end management with database integration. It features product management, stock control, and reporting functionalities.
 
 ### [Project 3: Cap-tivante](https://github.com/Steven1400999/cap-tivante.github.io)
 Created with HTML, CSS and JavaScript, this project highlights my front-end development capabilities and includes multiple pages, such as product listings, user information, a shopping cart system with paypal payment method, product management, authentication of users. This website demonstrates proficiency in creating responsive and interactive web pages with a clean and modern design.
