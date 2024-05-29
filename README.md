@@ -20,7 +20,8 @@ Welcome to my GitHub profile! I'm a passionate developer with a diverse skill se
 
 ## 🌟 Featured Projects
 
-### [Project 1:Movie Mads]([https://github.com/Steven1400999/Frontend_Movie_Mads](https://github.com/Steven1400999/Backend_Movie_Mads))
+### [Project 1:Movie Mads Frontend](https://github.com/Steven1400999/Frontend_Movie_Mads)
+(https://github.com/Steven1400999/Backend_Movie_Mads)
 A complete application created with React and Laravel, this is an application for booking tickets for movie screenings, the customer can book their tickets and then pay for them at the cinema and enjoy the movie. With user authentication, real-time data updates and a good design.
 
 ### [Project 2: InventiKS](https://github.com/Steven1400999/Proyecto_Inventario)
