@@ -4,7 +4,7 @@
 ![GitHub Followers](https://img.shields.io/github/followers/Steven1400999?label=Follow&style=social)
 ![GitHub Stars](https://img.shields.io/github/stars/Steven1400999?label=Stars&style=social)
 
-Welcome to my GitHub profile! I am a student at the Instituto Tecnologico De Aguascalientes with a degree in Engineering in information and communications technologies, I am also a passionate developer with a diverse set of skills in web and software development. Here you will find a collection of my projects, ranging from front-end designs to full-stack applications.
+Welcome to my GitHub profile! I am a student at the Instituto Technological Institute of Aguascalientes with a degree in Engineering in information and communications technologies, I am also a passionate developer with a diverse set of skills in web and software development. Here you will find a collection of my projects, ranging from front-end designs to full-stack applications.
 
 ## 🛠️ Technologies & Tools
 
