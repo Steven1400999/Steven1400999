@@ -31,7 +31,7 @@ An inventory management application developed using Laravel (PHP) and MySQL. Thi
 Created with HTML, CSS and JavaScript, this project highlights my front-end development capabilities and includes multiple pages, such as product listings, user information, a shopping cart system with paypal payment method, product management, authentication of users. This website demonstrates proficiency in creating responsive and interactive web pages with a clean and modern design.
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&hide_border=true)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Steven1400999&show_icons=true&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your_username&layout=compact&hide_border=true)
 
 ## 📫 How to Reach Me
