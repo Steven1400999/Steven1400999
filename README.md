@@ -22,7 +22,6 @@ Welcome to my GitHub profile! I am a student at the Instituto Technological Inst
 ![EXPO](https://img.shields.io/badge/Expo-1B1F23?style=flat&logo=expo&logoColor=white)
 ![POSTMAN](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white)
 ![XAMPP](https://img.shields.io/badge/Xampp-F37623?style=flat&logo=xampp&logoColor=white)
-![XAMPP](https://img.shields.io/badge/Xampp-F37623?style=flat&logo=xampp&logoColor=white)
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 ## 🌟 Featured Projects
