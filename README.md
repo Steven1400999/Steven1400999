@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I am a student at the Instituto Technological Inst
 ![GlueStack](https://img.shields.io/badge/-GlueStack-333333?style=flat&logo=gluestack)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Axios](https://img.shields.io/badge/axios-671ddf?&style=flat&logo=axios&logoColor=white)
 ![Expo](https://img.shields.io/badge/Expo-1B1F23?style=flat&logo=expo&logoColor=white)
