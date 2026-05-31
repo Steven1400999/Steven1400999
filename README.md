@@ -1,8 +1,8 @@
 # Steven Quezada González
 
-**Full Stack Developer · Web & Mobile**
+**Frontend Developer · React & React Native**
 
-> 🇺🇸 U.S. Citizen based in Aguascalientes, MX · No visa or sponsorship required · Open to relocation or remote
+> 🇺🇸 U.S. Citizen based in Aguascalientes, MX (CST/UTC-6) · No visa or sponsorship required · Open to relocation or remote
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:stevenquezadagonzalez@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=Steven1400999&color=1A56A0&style=flat)](https://github.com/Steven1400999)
@@ -11,9 +11,9 @@
 
 ## About Me
 
-Full Stack Developer with professional experience building enterprise web and mobile applications. Currently working on financial systems and cross-platform apps using React, React Native, TypeScript, and Laravel.
+Frontend Developer specializing in React and React Native, with professional experience building enterprise web and mobile applications for financial systems. My work is ~90% frontend — I own the UI architecture, component design, and user experience end to end.
 
-I've solved real production problems: migrating cloud infrastructure to unblock government API integrations (SAT/CFDI), designing UX flows for complex multi-step invoicing, and integrating external financial APIs. I work in Agile/Scrum teams and manage CI/CD pipelines across dev, staging, and production environments.
+I've tackled real production challenges: designing UX flows for complex multi-step invoicing, building cross-platform apps from a shared TypeScript codebase, and working around infrastructure constraints to unblock SAT/CFDI integrations. I'm comfortable consuming backend APIs (.NET/C#, Laravel) and thrive in Agile/Scrum teams.
 
 **B.Eng. in Information & Communication Technologies** — Tecnológico Nacional de México (2020–2025)
 
@@ -50,6 +50,17 @@ I've solved real production problems: migrating cloud infrastructure to unblock 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+
+---
+
+## 💼 Experience
+
+**Frontend Developer · Punto Singular** *(March 2025 – Present)*
+Leading frontend development for enterprise financial and invoicing systems. Build cross-platform apps (web + mobile) with React and React Native from a shared TypeScript codebase. Design UX flows for complex multi-step billing processes and own component architecture across products.
+`React` `React Native` `TypeScript` `Expo` `AWS` `Firebase` `CI/CD`
+
+**Resident Developer · QS2 Point** *(September 2024 – February 2025)*
+Requirements gathering, client communication, prototype design, and initial architecture definition for web and enterprise projects.
 
 ---
 
