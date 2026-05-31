@@ -2,7 +2,7 @@
 
 **Frontend Developer · React & React Native**
 
-> 🇺🇸 U.S. Citizen based in Aguascalientes, MX (CST/UTC-6) · No visa or sponsorship required · Open to relocation or remote
+> 🇺🇸 U.S. Citizen based in Aguascalientes, MX · No visa or sponsorship required · Open to relocation or remote
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:stevenquezadagonzalez@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=Steven1400999&color=1A56A0&style=flat)](https://github.com/Steven1400999)
